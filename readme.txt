@@ -6,3 +6,5 @@ Add new Line.
 Add a new Branch.
 
 I am MASTER&FEATURE1 branch.
+
+I am Fast forward.
