@@ -9,4 +9,4 @@ I am MASTER&FEATURE1 branch.
 
 I am Fast forward.
 
-I am dev.
+Bug is over.
