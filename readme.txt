@@ -10,3 +10,6 @@ I am MASTER&FEATURE1 branch.
 I am Fast forward.
 
 Bug is over.
+
+I am test Stash.
+
